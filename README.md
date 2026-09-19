@@ -16,7 +16,10 @@
 - **기기별 최적화**: CPU/메모리/화면 기반 품질 티어 자동 감지 + 첫 프레임 실측으로 강등, `prefers-reduced-motion` 존중, 세로/가로 반응형 레이아웃, PWA(홈 화면 추가·오프라인)
 - 속도 3단계(일반/빠름/터보), 다음 핸드 탭 스킵, 히어로 폴드 시 AI 가속
 
-## 실행
+## 플레이
+GitHub Pages로 자동 배포됩니다: https://sjidok750-creator.github.io/Hole-Dom-/
+
+## 로컬 실행
 ```bash
 # 그냥 index.html 을 브라우저로 열어도 됩니다. (PWA/서비스워커는 http 에서만 동작)
 python3 -m http.server 8080
