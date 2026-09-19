@@ -1,0 +1,12 @@
+{
+  "name": "NEON HOLD'EM — 네온 홀덤",
+  "short_name": "네온 홀덤",
+  "description": "빠르고 화려한 텍사스 홀덤: 캐시 게임, 1:1 헤즈업, 토너먼트, 미션",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#05030f",
+  "theme_color": "#0b0620",
+  "lang": "ko",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
